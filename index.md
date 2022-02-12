@@ -1,16 +1,20 @@
 ## Anmol-dev 
 
-##I am Anmol Nambiar from kerala
-##I love developing in PYTHON
+I am Anmol Nambiar from kerala
+I love developing in PYTHON
 
 ##check out my projects in github
 [Anmol-123456789](https://github.com/anmol-123456789)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+##Here are some of my projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### JARVIS
+Jarvis is an ai in active development, it was inspired tony starks real ai jarv
+
+<script src="https://gist.github.com/anmol-123456789/c5db168b8847e2ceb46e9cb4aa4cf710.js"></script>
+
+
 
 ```markdown
 Syntax highlighted code block
