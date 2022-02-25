@@ -6,7 +6,7 @@ I am Anmol Nambiar from kerala
 
 
 I love developing in PYTHON!
-[PythonBelovedGIF](https://user-images.githubusercontent.com/83905331/155689986-6802a08e-9b61-4cd7-accd-952a8a11b2d3.gif)
+![PythonPoweredGIF](https://user-images.githubusercontent.com/83905331/155690960-e47d4af4-2e3a-4b25-8b19-6bdf80a67476.gif)
 
 
 ##check out my projects in github
