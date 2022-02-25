@@ -1,9 +1,13 @@
 ## Anmol-dev 
 
 I am Anmol Nambiar from kerala
+![HackerHackerManGIF](https://user-images.githubusercontent.com/83905331/155690238-3d5ab011-6df1-4132-87d1-687dcde1e73d.gif)
 
 
-I love developing in PYTHON
+
+I love developing in PYTHON!
+[PythonBelovedGIF](https://user-images.githubusercontent.com/83905331/155689986-6802a08e-9b61-4cd7-accd-952a8a11b2d3.gif)
+
 
 ##check out my projects in github
 [Anmol-123456789](https://github.com/anmol-123456789)
@@ -11,8 +15,10 @@ I love developing in PYTHON
 
 ##Here are some of my projects
 
-### JARVIS
-Jarvis is an ai in active development, it was inspired tony starks real ai jarvis
+### JARVIS🤖🤖🤖
+Jarvis is an ai in active development, it was inspired by tony starks real ai jarvis
+![JarvisIronManGIF](https://user-images.githubusercontent.com/83905331/155690410-334d72d7-0d6f-4c67-b016-1e8382abee47.gif)
+
 
 <script src="https://gist.github.com/anmol-123456789/c5db168b8847e2ceb46e9cb4aa4cf710.js"></script>
 
