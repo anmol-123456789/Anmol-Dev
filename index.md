@@ -22,5 +22,10 @@ Jarvis is an ai in active development, it was inspired by tony starks real ai ja
 
 <script src="https://gist.github.com/anmol-123456789/c5db168b8847e2ceb46e9cb4aa4cf710.js"></script>
 
+Now , i am working on an Chatbot and a 3d game 
 
-
+My PC specs :- Intel r(uhd) 620 graphics card
+               8 gb ram
+               Toshiba 2 TB HDD
+               Hp notebook
+               
