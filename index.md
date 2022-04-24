@@ -3,7 +3,7 @@
 
 I am Anmol Nambiar from kerala
 
-https://user-images.githubusercontent.com/83905331/164957990-c8b089a0-176f-45b7-bdfd-c4a4d1e91f69.mp4
+https://user-images.githubusercontent.com/83905331/164957990-c8b089a0-176f-45b7-bdfd-c4a4d1e91f69.gif
 
 
 
