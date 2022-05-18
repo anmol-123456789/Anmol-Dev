@@ -3,7 +3,7 @@
 
 I am Anmol Nambiar from kerala
 
-https://user-images.githubusercontent.com/83905331/164957990-c8b089a0-176f-45b7-bdfd-c4a4d1e91f69.gif
+
 
 
 
@@ -61,4 +61,11 @@ My PC specs :-
                                              Hp notebook
                                              
                                       dell wireless keyboard and mouse
+                                      
+                                      
+                                      
+ JOIN MY DISCORD SERVER:-
+
+<iframe src="https://discord.com/widget?id=954315462425063454&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                                      
                
